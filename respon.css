@@ -1,0 +1,19 @@
+@media (min-width: 1025px) and (max-width: 1280px)
+{
+    #print {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: dodgerblue;
+        font-size: 20px;
+        margin-top: -20px;
+    }
+    #b1, #b2, #b3, #b4, #b5, #b6, #b7, #b8, #b9 {
+        width: 80px;
+        height: 80px;
+        margin: auto;
+        border: 1px solid rgb(20, 210, 93);
+        border-radius: 6px;
+        font-size: 30px;
+        margin-top: -30px;
+        text-align: center;
+    }
+}
